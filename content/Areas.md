@@ -12,3 +12,7 @@ Computer Science
 	- [[Interrupts]] and System Calls
 - [[Data Structures and Algorithms]]
 - [[Data Formats|Data]] Science
+
+Miscellanous
+- [[Economics|Economics MOC]]
+
