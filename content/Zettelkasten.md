@@ -1,10 +1,3 @@
----
-title: Zettelkasten
-tags:
-  - NoteTaking
-  - ZettelkastenGuide
-  - Areas
----
 Note: I'm referencing [zettelkasten.de](https://zettelkasten.de/posts/overview/#the-introduction-to-the-zettelkasten-method) to understand how to incorporate this into my daily note-taking!
 
 Contrary to what a "[[Zettel]]" should be, i.e. adhere to principle of atomicity and be "hyper-textual", I am not placing any such constraints here. While I will try to achieve this, my main goal is to familiarize myself with how it works. 

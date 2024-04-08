@@ -1,10 +1,3 @@
----
-title: Collector's Fallacy
-tags:
-  - NoteTaking
-  - ZettelkastenGuide
-  - Areas
----
 To know about something is not the same as knowing something.
 
 The idea here is that we like collecting information, hoping that it will be useful down the way. However, this mindless collection of ideas is creating a fake sense of knowledge. We know the information but we don't actually break it down into our own ideas and words. 

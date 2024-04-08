@@ -1,8 +1,4 @@
----
-title: 🔭 Areas
-tags: []
----
-This space is designed to store important metadata regarding files in this section
+This space is designed to store important metadata regarding files in this section. Similar to a MOC's.
 
 Computer Science
 - Artificial Intelligence
@@ -14,7 +10,5 @@ Computer Science
 	- [[Introduction to OS]]
 	- [[File System]]
 	- [[Interrupts]] and System Calls
-- [[Data Structure and Algorithms]]
-- [[Data]] Science
-
-
+- [[Data Structures and Algorithms]]
+- [[Data Formats|Data]] Science

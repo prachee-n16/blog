@@ -1,10 +1,3 @@
----
-title: Heaps
-tags:
-  - Programming
-  - DSA
-  - Areas
----
 Heap: Data structure, array object that can be represented as a binary tree.
 - Each element of the array is a node on the tree
 	- To compute indices of the:

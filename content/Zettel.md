@@ -1,10 +1,3 @@
----
-title: Zettel
-tags:
-  - NoteTaking
-  - ZettelkastenGuide
-  - Areas
----
 Essentially, a single note on one particular topic! The anatomy of a zettel looks like:
 - Unique Identifier: an unambiguous address
 	- This is mandatory! Why? Cause it allows for a unique way to identify each note. There are some ways we can go about achieving this!

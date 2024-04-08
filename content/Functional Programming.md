@@ -1,9 +1,3 @@
----
-title: Functional Programming
-tags:
-  - Areas
-  - to-complete
----
 *What is Functional Programming?* A [[Programming Paradigm]].
 
 The main focus is on "what are we trying to solve", rather than "how are we trying to solve" - It's a declarative type of programming

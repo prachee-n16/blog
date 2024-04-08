@@ -1,10 +1,3 @@
----
-title: File System
-tags:
-  - Areas
-  - OperatingSystems
-  - ece252
----
 **File System**
 The file system provides organization for the files through a directory structure and maintains metadata related to files. 
 

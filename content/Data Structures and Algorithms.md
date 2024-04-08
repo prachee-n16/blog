@@ -1,10 +1,3 @@
----
-title: Data Structures and Algorithms
-tags:
-  - Areas
-  - Programming
-  - DSA
----
 Algorithm: Set of steps that transforms an input to desired output, often to solve some computational problem
 Data Structures: Way to store and organize data 
 

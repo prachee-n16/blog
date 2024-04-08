@@ -1,9 +1,3 @@
----
-title: Braitenberg vehicles
-tags:
-  - Areas
-  - ArtificialIntelligence
----
 Source: [Braitenberg Vehicle Wiki](https://en.wikipedia.org/wiki/Braitenberg_vehicle)
 
 This was a thought experiment by Valentino Braitenberg.

@@ -1,10 +1,3 @@
----
-title: Data Formats
-tags:
-  - Areas
-  - DataFundamentals
-  - completed
----
 > [!tip] TLDR
 > - Data can be structured, unstructured or aggregated
 >	- Structured data is data that can be modelled. For example, text, numbers can fit into data tables

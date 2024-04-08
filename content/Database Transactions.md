@@ -1,10 +1,3 @@
----
-title: Database Transactions
-tags:
-  - Databases
-  - DataFundamentals
-  - Areas
----
 **ACID and BASE: Database Transactions**
 Following a chemistry analogy, we can measure a pH of a database where:
 - ACID databases is for applications that need consistency and reliability
@@ -28,5 +21,4 @@ For NoSQL databases, this is overkill. In fact, the CAP theorem or Brewer's theo
 It's better to use BASE principles:
 - Basic Availability focuses on keeping data available even with multiple failures. Instead of having a single large data store, NoSQL skips across many databases with replication. So, some errors does not result in complete outage. 
 - Soft state works against consistency where keeping data consistent is the problem of the developer, not database
-- Eventual Consistency states that eventually, the database needs to become into a consistent state. 
-
+- Eventual Consistency states that eventually, the database needs to become into a consistent state.

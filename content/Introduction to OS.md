@@ -1,10 +1,3 @@
----
-title: Introduction to OS
-tags:
-  - "#OperatingSystems"
-  - Areas
-  - ece252
----
 Operating System: It sits between hardware and programs. 
 **OS as a Resource Manager**, the "secretary" of the system
 - Responsible for resource managements and allocation, cause resources (e.g. CPU time, memory) are limited

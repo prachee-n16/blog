@@ -1,10 +1,3 @@
----
-tags:
-  - Areas
-  - OperatingSystems
-  - to-complete
-  - ece252
----
 To execute a program, the components for a minimal set are:
 - Main memory
 - System Bus

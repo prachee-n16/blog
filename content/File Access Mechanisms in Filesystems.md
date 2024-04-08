@@ -1,10 +1,3 @@
----
-title: File Access Mechanisms in Filesystems
-tags:
-  - OperatingSystems
-  - Areas
-  - ece252
----
 Files usually have some permissions associated with them: 
 - Read
 - Write

@@ -1,10 +1,3 @@
----
-title: Parquet
-tags:
-  - DataFundamentals
-  - Areas
-  - completed
----
 *Open-source columnar storage file format used for big data processing*
 - Columnar storage format to allow for optimized column-based operations like filtering/aggregation
 - Data in parquet file is divided into columns, and groups of columns are organized into row groups

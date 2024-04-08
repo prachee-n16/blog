@@ -1,8 +1,3 @@
----
-tags:
-  - Areas
-  - ArtificialIntelligence
----
 Search algorithm that decreases the number of gate states to evaluate in [[Braitenberg vehicles|Braitenberg vehicles]] in the game tree.
 - Stopping condition: It does not evaluate further when it realizes that there is already an existing better alternative.
 Note: It's the same final output as Minimax, just a more efficient way of going about it.

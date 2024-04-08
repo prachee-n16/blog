@@ -1,9 +1,3 @@
----
-tags:
-  - OperatingSystems
-  - ece252
-  - Areas
----
 Interrupts are a way to improve processor utilization (as opposed to polling)
 - When an interrupt fires, the CPU might ignore it but usually, we need to handle it.
 	- When the computer is in sleep mode, we might want to ignore the key interrupt.

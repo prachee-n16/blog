@@ -1,9 +1,3 @@
----
-title: File Stores
-tags:
-  - Areas
-  - DataFundamentals
----
 *Store data in files*
 
 The file format used to store data depends on:

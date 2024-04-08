@@ -1,10 +1,3 @@
----
-title: ORC
-tags:
-  - DataFundamentals
-  - Areas
-  - completed
----
 *Optimized Row Columnar Format, organized into columns that optimize read/write operations for Apache Hive*
 - Apache Hive: data warehouse that has fast data summarization and querying over large datasets
 - Columnar storage format to allow for optimized column-based operations like filtering/aggregation

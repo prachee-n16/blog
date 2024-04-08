@@ -1,10 +1,3 @@
----
-title: Ethics in AI
-tags:
-  - Areas
-  - ArtificialIntelligence
-  - Ethics
----
 **AI and Society**
 - The big question has always been **will AI destroy jobs**?
     - AI will replace the unpleasant or dangerous jobs, completing tasks with more efficiency and precision

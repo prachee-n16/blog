@@ -1,9 +1,3 @@
----
-tags:
-  - C
-  - Programming
-title: Fundamentals of C
----
 **Overview of C**
 - It is a procedural language.
 	- It has functions but it's not a functional programming language, unlike C++ which has object-oriented capabilities. 
@@ -119,4 +113,27 @@ free(greeting);
 
 Extra:
 - The difference between new and new[]: 
-	- If type is a non-array type, the name of the function is operator new . If type is an array type, the name of the function is operator new[] 
+	- If type is a non-array type, the name of the function is operator new . If type is an array type, the name of the function is operator new[]
+
+*String Utils*
+`strrchr`: Locates last occurrence of character in a string, which can be useful to check if a character exists. 
+- Returns: 
+
+Example: See if an extension has been provided in a filename:
+```c
+if (strrchr(filename, '.') == NULL) {...}
+```
+
+
+*Variadic functions*
+```c
+void sample(char *str, ...) {}
+```
+
+The ... indicates the function accepts a `str` parameter and variable number of arguments, `va`.
+
+`va_list` is a special list that stores these arguments. It allows for the following macros:
+- `va_start` initializes the list to point to the first variable argument
+- `va_arg` shows how to get the next argument from the list
+- `va_end` is the end of list and cleans things up
+- `va_copy` copies the list

@@ -1,9 +1,3 @@
----
-title: Function Composition in JavaScript
-tags:
-  - Areas
-  - completed
----
 JavaScript is a multi-paradigm programming language - it has supports for several [[Programming Paradigm]], including [[Functional Programming]].
 
 Function Piping vs. Composition

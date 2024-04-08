@@ -1,11 +1,3 @@
----
-title: Transactional Data Processing
-tags:
-  - Databases
-  - to-complete
-  - Programming
-  - Areas
----
 *Record transactions that capture business events a company wants to track*
 
 Think of financial transactions: a bank would capture when money is deposited or taken out. Each transaction is a small, discrete unit of work. In the case of a bank, they would be dealing with millions of transactions on a daily basis. 

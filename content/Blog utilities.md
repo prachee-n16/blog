@@ -1,3 +1,5 @@
+This blog was built with Obsidian and Quartz.
+
 To see what this blog looks like locally,
 
 ```bash

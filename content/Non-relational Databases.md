@@ -1,10 +1,3 @@
----
-title: Non-relational Databases
-tags:
-  - Databases
-  - Areas
-  - to-complete
----
 *Data management system where there is no relational schema, also called No-SQL databases*
 - Key-value databases
 	- Each record has a key with some data associated to it (in any format)
