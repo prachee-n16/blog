@@ -1,7 +1,7 @@
 **Overview of C**
 - It is a procedural language.
 	- It has functions but it's not a functional programming language, unlike C++ which has object-oriented capabilities. 
-- Header files are imported into a program using precompiler directive as follows:
+- Header files are imported into a program using [[Preprocessor Directive|precompiler directives]] as follows:
 ```cpp
 #include <stdio.h>
 #include <stdlib.h>

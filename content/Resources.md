@@ -5,3 +5,4 @@ Programming Formula Sheets~
 
 Markdown Tools
 - [[Obsidian Cheat Sheet]]
+- [[Python - Setting up Virtual Env]]
