@@ -17,3 +17,4 @@ While I'm still playing around with how I want to build my `second brain`, here 
 - **Organize**: I plan to write on a variety of topics, so organizing all these notes is key! The basic rule of thumb is PARA, which stands for **PROJECTS**, **AREAS**, **RESOURCES**, **ARCHIVE**. I'm also looking into tagging all notes as an alternative form of finding content in the future.
 - **Distill**: Condensing information into the key points. This would be more critical when I am taking course notes or self-learning a topic.
 - **Express**: With Obsidian, I want to use the Graph view to make connections across the various notes.
+
