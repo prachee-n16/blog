@@ -9,7 +9,7 @@ This notebook will keep on changing and improving over time, so don't expect it 
 - [[Projects]]
 - [[Areas]]
 - [[Resources]]
-- [[Archives]]
+- [[Areas]]
 
 While I'm still playing around with how I want to build my `second brain`, here are some basic principles I follow! My process for generating content for the second brain is based on the CODE system. This involves 4 steps: **C**apture, **O**rganize, **D**istill and **E**xpress. In brief,
 
