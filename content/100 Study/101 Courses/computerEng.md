@@ -34,6 +34,6 @@ title: Computer Engineering
 - 3A CE
 	- [[ECE 318]]: Communication Systems
 	- [[ECE 327]]: Digital Hardware Systems
-	- [[ECE 350]]: Real-Time Operating Systems
+	- [[101.1 Operating Systems/index|ECE 350]]: Real-Time Operating Systems
 	- [[ECE 380]]: Analog Control Systems
 	- [[STV 205]]: Cybernetics and Society

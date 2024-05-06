@@ -1,5 +1,6 @@
 ---
 title: A completely from scratch hobby OS
+draft: "True"
 ---
 Resources:
 - https://wiki.osdev.org/Main_Page

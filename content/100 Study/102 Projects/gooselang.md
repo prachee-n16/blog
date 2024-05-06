@@ -2,6 +2,7 @@
 title: GooseLang - Custom Programming Language
 tags:
   - To/Do
+draft: "True"
 ---
 *Note: Made in good fun, and having your own programming language is cool~*
 

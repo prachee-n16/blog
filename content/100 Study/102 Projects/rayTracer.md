@@ -1,5 +1,6 @@
 ---
 title: Ray Tracer
+draft: "True"
 ---
 **Reference**: [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 - Review vector math with [Graphics Codex](https://graphicscodex.com/projects/projects/)
