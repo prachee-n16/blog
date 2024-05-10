@@ -1,6 +1,3 @@
----
-title: Computer Engineering
----
 ### Courses Taken So Far
 - 1A CE
 	- ARTS 190: First-Year Topics in Arts
@@ -32,8 +29,10 @@ title: Computer Engineering
 	- ECE 252 Systems Programming and Concurrency 
 	- ECE 298 Instrumentation and Prototyping Laboratory
 - 3A CE
-	- [[ECE 318]]: Communication Systems
-	- [[ECE 327]]: Digital Hardware Systems
-	- [[101.1 Operating Systems/index|ECE 350]]: Real-Time Operating Systems
-	- [[ECE 380]]: Analog Control Systems
-	- [[STV 205]]: Cybernetics and Society
+	- ECE 318: Communication Systems
+	- ECE 327: Digital Hardware Systems
+	- ECE 350: Real-Time Operating Systems
+	- ECE 380: Analog Control Systems
+	- STV 205: Cybernetics and Society
+
+See related: [[Projects]], [[Work Experience]]]
