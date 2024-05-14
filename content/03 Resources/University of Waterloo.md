@@ -35,4 +35,4 @@
 	- ECE 380: Analog Control Systems
 	- STV 205: Cybernetics and Society
 
-See related: [[Projects]], [[Work Experience]]]
+See related: [[Projects]], [[Work Experience]]
