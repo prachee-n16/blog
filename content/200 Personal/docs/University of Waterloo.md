@@ -12,7 +12,7 @@
 	- ECE 108: Discrete Mathematics and Logic 1
 	- ECE 124: Digital Circuits and Systems
 	- ECE 140: Linear Circuits
-	- ECE 192: Engineering Economics and Impact on Society
+	- ECE 192: Engineering [[economics|Economics]] and Impact on Society
 	- MATH 119: Calculus II for Engineering
 - 2A CE
 	- ECE 109: Materials Chemistry for Engineers
@@ -22,16 +22,16 @@
 	- ECE 240 Electronic Circuits
 	- ECE 250 Algorithms and Data Structures
 - 2B CE
-	- ECE 203: Probability Theory and Statistics 1 
+	- ECE 203: [[probabilityIntro|Probability]] Theory and Statistics 1 
 	- ECE 207 Signals and Systems 
-	- ECE 208 Discrete Mathematics and Logic 2 
+	- [[proofSystems|ECE 208 ]]Discrete Mathematics and [[propositionalLogic|Logic]] 2 
 	- ECE 224 Embedded Microprocessor Systems 
 	- ECE 252 Systems Programming and Concurrency 
 	- ECE 298 Instrumentation and Prototyping Laboratory
 - 3A CE
 	- ECE 318: Communication Systems
 	- ECE 327: Digital Hardware Systems
-	- ECE 350: Real-Time Operating Systems
+	- [[100 Study/101 Courses/ECE 350 Operating System/ECE 350|ECE 350]]: Real-Time Operating Systems
 	- ECE 380: Analog Control Systems
 	- STV 205: Cybernetics and Society
 
