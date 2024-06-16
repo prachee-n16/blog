@@ -31,7 +31,7 @@
 - 3A CE
 	- ECE 318: Communication Systems
 	- ECE 327: Digital Hardware Systems
-	- [[100 Study/101 Courses/ECE 350 Operating System/ECE 350|ECE 350]]: Real-Time Operating Systems
+	- [[ECE 350|ECE 350]]: Real-Time Operating Systems
 	- ECE 380: Analog Control Systems
 	- STV 205: Cybernetics and Society
 
