@@ -2,7 +2,7 @@
 
 Ideally, it has low performance overhead over raw hardware. 
 - Dual-mode operation --> Control Register
-- I/O management --> Interrupts
+- I/O management --> [[Interrupts]]
 - Process Management --> Timer
 - Address Translation --> Translation Lookaside Buffer
 

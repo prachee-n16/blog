@@ -52,7 +52,7 @@ How to communicate with I/O devices?
 	- [[Synchronization]] issues
 		- Are the communicating entities equals? Case with two computers communicating
 		- What level of services is required?
-			- Active sync is demand-oriented e.g. interrupts need immediate service
+			- Active sync is demand-oriented e.g. [[interrupts]] need immediate service
 			- Passive sync is request-oriented e.g. poll to detect need for service
 		- How will syncing be achieved?
 			- Interrupts, Polling loops and Blind syncing
