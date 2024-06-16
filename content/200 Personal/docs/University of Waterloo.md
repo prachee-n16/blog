@@ -30,7 +30,7 @@
 	- ECE 298 Instrumentation and Prototyping Laboratory
 - 3A CE
 	- ECE 318: Communication Systems
-	- ECE 327: Digital Hardware Systems
+	- [[ECE 327]]: Digital Hardware Systems
 	- [[ECE 350|ECE 350]]: Real-Time Operating Systems
 	- ECE 380: Analog Control Systems
 	- STV 205: Cybernetics and Society
