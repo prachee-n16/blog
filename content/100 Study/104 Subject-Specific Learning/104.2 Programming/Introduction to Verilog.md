@@ -274,7 +274,7 @@ endmodule
 2. Create a 4:2 Mux with procedural blocks given inputs of a, b, sel, and c (Slide 90)
 	- Write a testbench to monitor changes and connect it to module
 3. Provide a synthesizable DFFE Example (Slide 97)
-4. How to create a periodic clock signal? [[Verilog - Generate Clock Signals]]
+4. How to create a periodic clock signal? [[clk|Generate Clock Signals]]
 5. Build a 4:1 mux using a case statement with testbench
 6. Create a priority encoder with `?` symbol in cases
 7. Create a 8 bit adder using full adders with testbench
