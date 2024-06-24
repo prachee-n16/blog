@@ -4,6 +4,9 @@
 - [[Alpha-Beta Pruning]]
 - [[Minimax Algorithm]]
 
+**Object Detection**
+- [[RCNN]]
+
 **Applications**
 - [[Face Recognition]] + [[Gesture Recognition]]
 
