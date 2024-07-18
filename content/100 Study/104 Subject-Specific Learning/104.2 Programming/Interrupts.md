@@ -53,8 +53,4 @@ When processing output:
 - tight polling will introduce overhead since frequent checks consume CPU cycles/ bus cycles
 - periodic and occasional polling will introduce less overhead as there's pauses between checks
 
-
-
-
-
 **Interrupt Service Routine** - special function that executes when triggered by an interrupt request, also called interrupt handlers
