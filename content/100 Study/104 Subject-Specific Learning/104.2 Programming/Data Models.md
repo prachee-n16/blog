@@ -7,4 +7,4 @@
 	- Example: Social media feeds, financial transactions
 		- Gives rise to [[Streaming data platform|streaming data platforms]] 
 	- Views data as infinite and fast-moving data streams
-
+ 
