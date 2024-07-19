@@ -11,6 +11,7 @@
 		- [[Relational Databases]]/[[Non-relational Databases]]
 			- [[Database Transactions|ACID and BASE]]
 	- [[File Stores]]
+	- [[Data Models]]
 - Architecture patterns
 	- [[Service-Oriented architecture]]
 - [[Computer Interfaces]]
