@@ -1,8 +1,5 @@
 ---
-title: Gesture Recognition with AI to improve Human-Computer Interactions
-tags:
-  - To/Do
-draft: "True"
+tags: []
 ---
 **Overall Idea**
 Desktop application that can detect hand gestures/ facial expressions and use them as keybinds, allowing them to function as shortcuts or commands. 
