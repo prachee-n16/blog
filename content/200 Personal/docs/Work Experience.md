@@ -4,7 +4,7 @@ Co-op Evaluation: OUTSTANDING (6/6)
 **SYNC HMI Software Developer @Ford Motors**
 Co-op Evaluation: EXCELLENT (6/6)
 - Acquired comprehensive understanding of the complex architecture of SYNC Infotainment Software deployed in the F-150 Lightning Models  
-- Expedited migration of React files to React Native by 20%, optimized for mobile platform  
+- Expedited migration of React files to [[React Native]] by 20%, optimized for mobile platform  
 - Resolved a range of complex bugs on an HMI Platform within specified SLAs to support a major release  
 - Actively involved in the development of new features using ReactJS, Flow, and integrated with MQTT broker
 

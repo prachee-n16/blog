@@ -33,6 +33,6 @@
 	- [[ECE 327]]: Digital Hardware Systems
 	- [[ECE 350|ECE 350]]: Real-Time Operating Systems
 	- ECE 380: Analog Control Systems
-	- STV 205: Cybernetics and Society
+	- [[STV 205]]: Cybernetics and Society
 
 See related: [[Projects]], [[Work Experience]]
