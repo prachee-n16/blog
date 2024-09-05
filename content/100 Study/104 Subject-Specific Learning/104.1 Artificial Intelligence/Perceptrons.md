@@ -20,7 +20,8 @@ Given the inputs:
 | 0   | 0.3 | stay;     | We want to be above base amount of $\theta$. Since input x is 0, weight is irrelevant here.                           |
 | -1  | 0.4 | decrease; | We want to be above base amount of $\theta$. Since input x is negative, decreasing weight will increase the product.  |
 
-This results in the learning rule (also called delta rule): $\triangle \omega_i = \alpha x_i (y_\text{desired} - y)$
+This results in the learning rule (also called delta rule): 
+$\triangle \omega_i = \alpha x_i (y_\text{desired} - y)$
 
 Note: if implementing this in hardware:
 - connect several motors with potentiometers; 
