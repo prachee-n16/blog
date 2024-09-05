@@ -1,5 +1,5 @@
 Interest in AI has been there for a long time (See fictional stories: Frankenstein, R.U.R.)
-	- Field of Automata: Ismail al-Jazari is credited as father or robotics where he creates self-operating machines
+- Field of Automata: Ismail al-Jazari is credited as father or robotics where he creates self-operating machines
 	- https://www.reddit.com/r/ArtefactPorn/comments/lbwldq/designed_in_the_late_1770s_this_incredible_little/
 	  Designed in the late 1770s this incredible little robot called simply The Writer, was designed and built by Swiss-born watchmaker Pierre Jaquet-Droz 
 	  - Frankenstein and R.U.R are stories about building something that exhibits human behavior 
