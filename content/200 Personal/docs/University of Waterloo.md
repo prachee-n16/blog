@@ -34,5 +34,12 @@
 	- [[ECE 350|ECE 350]]: Real-Time Operating Systems
 	- ECE 380: Analog Control Systems
 	- [[STV 205]]: Cybernetics and Society
+- 3B CE
+	- ECE 307: Probability Theory & Stats 2
+	- [[ECE 351]]: Compilers
+	- [[ECE 356]]: Database Systems
+	- [[ECE 358]]: Computer Networks
+	- [[SYDE 522]]: Foundations of Artificial Intelligence
+	- [[ECE 305]]: Introduction to Quantum Mechanics
 
 See related: [[Projects]], [[Work Experience]]
