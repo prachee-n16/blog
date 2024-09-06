@@ -19,7 +19,7 @@ Medium of interconnection: a medium is needed to interconnect group of computers
 - Bits are corrupted moving from transmitter to receiver; this bit corruption property of a medium is expressed as **BER (bit error rate)**
 	- $\text{BER} = \frac{\text{\# of bits corrupted}}{\text{total \# of bits transmitted}}$
 
-- Data communication happens in chunk of bits; we send multiple bits rather than a single bit. In different layer of protocols, these chunk of bits are called differently:
+- Data communication happens in chunk of bits; we send multiple bits rather than a single bit. In different layer of [[protocols]], these chunk of bits are called differently:
 
 | Layer of Protocol                | Term    |
 | -------------------------------- | ------- |
@@ -39,3 +39,11 @@ Medium of interconnection: a medium is needed to interconnect group of computers
 - LAN: interconnection of a set of computers by means of a single wired, broadcast medium
 - WLAN: interconnection of a set of computers by means of a single wireless, broadcast medium
 	- Difference between LAN and WLAN is slightly more than just being wired and wireless; revisit later after discussing how the Internet works?
+
+**Terms and Definitions**
+- **Model of time**: There are two models of time in relation to when information is transferred by a receiver
+	- Continuous time: In this model, a node can start transmitting at any time
+	- Slotted time: In this model, a node can start transmitting only at the beginning of a time slot and transmission can not overrun a slot
+- Communication directions
+	- **Full duplex:** In full duplex communication, a node can transmit a frame and receive a frame exactly at the same time
+	- **Half Duplex:** in half duplex communication, a node can either transmit a frame or receive a frame at any given instant
