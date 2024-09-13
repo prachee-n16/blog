@@ -1,3 +1,0 @@
-They are comprised of node layers, containing an (1) input layer (2) one or more hidden layers and (3) output layers. Each node connects to another, and have an associated weight and threshold. When the output of an individual node exceeds the "threshold", the node is activated and the data is sent to next layer of network. Otherwise, no data is sent over.
-
-Example: Feed-forward Neural Network, [[Convolutional neural network]]
