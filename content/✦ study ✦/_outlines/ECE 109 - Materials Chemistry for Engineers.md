@@ -1,0 +1,2 @@
+> [!note] **Course Description**
+> This course will help students understand the relationship between the microstructure of common semiconductor and optoelectronic materials, and the electrical, optical, and magnetic properties exhibited by the materials. Topics include structure of atoms, models of the atom, electronic configuration, band theory, atomic bonding, dielectric properties, optical transparency, magnetic properties, molecular bonding, metals and alloys, and activation energy.

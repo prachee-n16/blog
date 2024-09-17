@@ -1,0 +1,2 @@
+> [!note] **Course Description**
+>Discrete, continuous and periodic signals, time- and frequency-domain analysis of continuous- and discrete-time linear systems, periodic signals and Fourier series, non-periodic signals, and Fourier transforms.

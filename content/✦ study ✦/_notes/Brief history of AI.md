@@ -1,0 +1,35 @@
+Interest in AI has been there for a long time (See fictional stories: Frankenstein, R.U.R.)
+- Field of Automata: Ismail al-Jazari is credited as father or robotics where he creates self-operating machines
+	- https://www.reddit.com/r/ArtefactPorn/comments/lbwldq/designed_in_the_late_1770s_this_incredible_little/
+	  Designed in the late 1770s this incredible little robot called simply The Writer, was designed and built by Swiss-born watchmaker Pierre Jaquet-Droz 
+	  - Frankenstein and R.U.R are stories about building something that exhibits human behavior 
+		  - R.U.R: Rossum's Universal Robots; robot means slave. Play is about artificial people being slaves for humans; things go bad as they do 
+- 1948: **Grey Walter's Tortoises**: https://www.youtube.com/watch?v=lLULRlmXkKo
+	- As we are able to build these complex electronic machines, we start to see the rise of the first "robots"
+	- *Elmer and Elsie*: Described as tortoises because of slow rate movement; capable of finding their way back to charging stations i.e. **phototaxis**
+- 1950: **The Turing Test**
+	- Can we distinguish between AI and human behavior?
+- 1951: **Checkers and chess** bots; using AI bots to play against humans
+- 1956: **Dartmouth Workshop**: triggers the following incredible wave of innovations. See [article](https://en.wikipedia.org/wiki/Dartmouth_workshop)
+- 1957: [**General problem solver**](https://en.wikipedia.org/wiki/General_Problem_Solver)
+- 1958: **[[Perceptrons]]** First computers to be able to identify or classify images
+- 1964: **ELIZA** First chatbot 
+- 1968: **SHRDLU** program for understanding natural language
+- 1969: **Perceptrons (the book)**, summarizes a lot of the research that has happened so far.
+- 1970-1980: The first *AI winter* where no major breakthroughs are made due to challenges being faced in the field
+- 1980: Expert systems and **XCON**; Organizes a decision-making process that allows for automation. In commerce, this was specially useful to help organize transactions that are usually guided by a set of rules
+- 1984 - present: **Cyc**: Idea was to create a big knowledge database that contains all the information in the world. Essentially, a "Wikipedia" of a lot of facts to allow for rule-based logic checks
+- 1986 - **Backpropagation**; core workforce of neural networks
+- 1989 - **Deep Thought**: Chess bot
+- 1989 - 2006: A smaller winter with drop in hype for AI
+	- 1992: **TD-Gammon**; Backgammon program that allowed even experts to learn more tricks and tips
+	- 1992: **SVM**; refinement of Neural Networks
+	- 1997: **Deep Blue**: Chess bot, beats Gary Kasparov 
+	- 2006: **Deep Belief Networks** 
+- 2012: **AlexNet**: pioneering convolutional neural network (CNN) used primarily for image recognition and classification tasks
+- 2014: **Neural Machine Translation**
+- 2014: **GANs and DeepFakes**
+- 2015: **AlphaGo**: playing Go instead of Chess
+- 2015: **AlphaGoZero**: playing Go without watching humans play; learns on it's own
+- Post-2020: **ChatGPT, DALL-E etc**
+

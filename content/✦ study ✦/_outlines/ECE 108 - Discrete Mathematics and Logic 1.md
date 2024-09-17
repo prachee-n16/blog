@@ -1,0 +1,2 @@
+> [!note] **Course Description**
+> Introduction to discrete mathematics, including [[propositionalLogic|propositional]]/Boolean logic, syntax and semantics, proof theory, and model theory; set theory, relations and functions, combinatorics (counting techniques, permutations, and combinations), graph theory. Applications in electrical, computing, and software engineering.
