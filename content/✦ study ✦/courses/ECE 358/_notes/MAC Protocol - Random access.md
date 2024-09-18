@@ -1,0 +1,1 @@
+Class of MAC protocol where the idea is to: Channel is not divided so it allows for collisions; Instead, we recover from collisions with protocol mechanisms. 

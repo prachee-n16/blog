@@ -1,0 +1,2 @@
+A set of vectors in a vector space is called a basis if every element of V can be written in a unique way as a finite linear combination of elements of B. 
+- A spatial vector in 3D are the three unit vectors $\hat{i}, \hat{j}, \hat{k}$ which point along x, y and z axes. 

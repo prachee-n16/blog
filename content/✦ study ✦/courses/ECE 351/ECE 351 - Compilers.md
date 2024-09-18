@@ -9,4 +9,8 @@
 	- [[Semantic Analysis]]
 	- [[Code Optimizations in Compilers|Code Optimizations in Compilers]]
 	- [[Code Generation in Compilers|Code Generation]]
+- [[Program Understanding]]
+	- [[Object Diagrams]]
+
+Related: **[[ECE 351 - Lab Details]]**
 
