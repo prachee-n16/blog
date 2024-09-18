@@ -2,7 +2,7 @@
 draft: "true"
 ---
 Here are links to some resources to prepare for CodeSignal Interview Prep (tagged with priority for testing):
-- [Example Problems](https://codesignal.com/blog/interview-prep/example-codesignal-questions/) (by Codesignal Blog) #medium
+- [Example Problems](https://codesignal.com/blog/interview-prep/example-codesignal-questions/) (by Codesignal Blog) --> ***medium***
 
 Notes from [Coding Assessment Framework](https://github.com/Leader-board/OA-and-Interviews/blob/main/media/general-coding-assessment-framework.pdf)
 - The score may vary depending on completion speed, code quality and # of incorrect attempts

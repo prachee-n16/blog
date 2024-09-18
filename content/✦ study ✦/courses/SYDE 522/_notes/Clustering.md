@@ -9,6 +9,7 @@ There are three theories of how humans actually build categories:
    - Exemplar-based clustering defines [[Hierarchical clustering]]
 3. [[Theory theory]]
 
+However, what if we want our categories to have some structure? [[Kohonen Network]]
+
 Note: Normalizing data is important before running clustering methods.
 - By having both axes of data in the same scale, we can normalize a distance of "1" in each dimension
-
