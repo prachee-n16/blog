@@ -5,3 +5,4 @@
 - [[Brief history of AI]]
 - [[Introduction to AI]]
 	- [[Perceptrons]]
+- [[Clustering]]
