@@ -14,7 +14,6 @@ While I'm still playing around with how I want to build my `second brain`, here 
 - **Organize**: I plan to write on a variety of topics, so [[Organization in PKM|organizing]] all these notes is key! 
 - **Distill**: Condensing information into the key points. This would be more critical when I am taking course notes or self-learning a topic.
 - **Express**: With [[Obsidian Cheat Sheet|Obsidian]], I want to use the Graph view to make connections across the various notes.
-
 # Say hello
 
 If you'd like to know more about any of the information above, or would like to get in touch with me about working with you, [**email me**](mailto:p4nanda@uwaterloo.ca) and I'll respond as soon as I can.
