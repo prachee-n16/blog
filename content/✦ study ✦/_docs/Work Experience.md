@@ -26,4 +26,4 @@ Co-op Evaluation: OUTSTANDING (6/6)
 - Reviewed and tested content for Maplesoft's online and mobile products  
 - Worked closely with Maplesoft's development teams to review defects and potential workarounds
 
-See related: [[Projects]], [[University of Waterloo]]
+See related: [[Projects]], [[Computer Engineering]]

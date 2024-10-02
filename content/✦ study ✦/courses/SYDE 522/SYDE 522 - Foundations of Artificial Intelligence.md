@@ -5,4 +5,10 @@
 - [[Brief history of AI]]
 - [[Introduction to AI]]
 	- [[Perceptrons]]
+- [[Regression]]
+- [[Model Optimization]]
+	- [[Model Evaluation]]
 - [[Clustering]]
+- [[SVM]]
+ 
+**Lab Details**: [[SYDE 522 - Lab Details]]

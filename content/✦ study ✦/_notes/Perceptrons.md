@@ -22,6 +22,7 @@ Given the inputs:
 
 This results in the learning rule (also called delta rule): 
 $\triangle \omega_i = \alpha x_i (y_\text{desired} - y)$
+- This learning rule allows them to learn on any dataset; but note the solutions are not "unique"
 
 Note: if implementing this in hardware:
 - connect several motors with potentiometers; 
