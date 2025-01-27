@@ -1,2 +1,0 @@
-> [!note] **Course Description**
-> Computer organization. Memory units, control units, I/O operations. Assembly language programming, translation and loading. Arithmetic logic units. Computer case studies.

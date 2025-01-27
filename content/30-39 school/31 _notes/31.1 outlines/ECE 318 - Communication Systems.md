@@ -1,0 +1,2 @@
+> [!note] **Course Description**
+> Introduction to random processes, power spectral density. Thermal noise and the white noise model. Amplitude and angle modulation, generation and detection schemes. Sampling and reconstruction, quantization. Digital baseband transmission. Overview of digital passband communications.

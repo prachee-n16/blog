@@ -1,0 +1,2 @@
+> [!note] **Course Description**
+> Processes and threads (pthreads); system calls; concurrency (semaphore, mutex, monitors, and barrier synchronization); user-level memory management. Performance and correctness of concurrent systems. Deadlock detection and recovery; file systems.

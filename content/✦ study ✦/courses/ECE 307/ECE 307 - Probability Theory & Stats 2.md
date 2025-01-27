@@ -1,8 +1,0 @@
-> [!note] **Course Description**
-> This course provides in depth knowledge of statistics and [[probabilityIntro|probability]] motivated by electrical and computer engineering applications. Use of modern statistical software tools is introduced. Topics include sufficient statistics, exponential families, hypothesis testing, error estimation, confidence intervals, chi-square tests, analysis of variance, regression, correlation, decision theory, and Bayesian and non-Bayesian statistics.
-
-**Course Outline**
-- [[Combinatorial Analysis]]
-- [[Axioms of Probability]]
-- [[Conditional Probability]]
-- [[Independent Events]]

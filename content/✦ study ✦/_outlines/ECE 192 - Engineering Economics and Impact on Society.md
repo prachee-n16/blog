@@ -1,2 +1,0 @@
-> [!note] **Course Description**
-> This course teaches engineering [[economics]] and the impact of engineering on the society at large. Important concepts of engineering economics including cash flow diagrams, present worth, quantification of impact costs, and rate of return analysis are presented. This course discusses real-life engineering cases that cover the above aspects, and provide a broad perspective on the issues. Energy supply scenarios and the environment, global energy use and supply, and environmental impacts of engineering projects are discussed.

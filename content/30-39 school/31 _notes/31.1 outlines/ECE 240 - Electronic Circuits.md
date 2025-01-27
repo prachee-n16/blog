@@ -1,0 +1,2 @@
+> [!note] **Course Description**
+> Introduction to electronic signal processing; second-order circuits; operational amplifier circuits; diode device and circuits; metal-oxide-semiconductor (MOS) biasing networks; load-line analysis; diode and MOS small-signal equivalent circuits; single-stage small-signal MOS amplifiers; complementary metal-oxide-semiconductor (CMOS) logic circuits.

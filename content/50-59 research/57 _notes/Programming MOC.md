@@ -1,0 +1,17 @@
+- General
+	- Programming Languages
+		- [[Fundamentals of C]]
+	- [[Programming Paradigm|Paradigm]]
+- [[Data Structure and Algorithms]]
+	- [[Elementary Graph Terminology]]
+	- [[Heaps]]
+- [[Compiler|Compilers]]
+- [[Data]]
+	- [[Databases]]
+		- [[Relational Databases]]/[[Non-relational Databases]]
+			- [[Database Transactions|ACID and BASE]]
+	- [[File Stores]]
+	- [[Data Models]]
+- Architecture patterns
+	- [[Service-Oriented architecture]]
+- [[Computer Interfaces]]

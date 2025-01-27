@@ -1,2 +1,0 @@
-> [!note] **Course Description**
-> Electrostatics: electric field, flux, Gauss's Law, potential and potential energy. Capacitors: dielectric, capacitance, electric energy storage. Resistors: charge flow, current, resistance. Magnetostatic: magnetic force, magnetic fields, Ampere's Law. Inductors: magnetic flux, inductance, magnetic materials, magnetic energy storage. Time-varying fields: Faraday's Law, mutual inductance, simple motors and generators.

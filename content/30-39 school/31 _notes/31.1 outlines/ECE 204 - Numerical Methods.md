@@ -1,0 +1,2 @@
+> [!note] **Course Description**
+> Application of computational methods to engineering problems. Number systems, errors and error propagation. Roots of nonlinear equations. Introduction to numerical linear algebra. Interpolation and numerical integration. Introduction to numerical solutions of ordinary differential equations, optimization. Emphasis will be placed on algorithm development.
