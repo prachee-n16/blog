@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["**/10-19 life admin", "!*.md", "templates", ".obsidian"],
+    ignorePatterns: ["**/10-19 life admin", "!*.pdf", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
