@@ -1,5 +1,5 @@
 Combinatorial analysis is the _mathematical theory of counting_.
-
+{% raw %}
 **Basic Principle of Counting**
 Number of ways to perform "several" procedures in succession
 
@@ -28,9 +28,8 @@ _Properties:_
 
 **Binomial Theorem**
 Way to expand powers of binomials using combinations:
-{% raw %}
 $(X+Y)^n = \sum^n_{k=0} {{n}\choose{k}} X_k Y_{n-k}$
-{% endraw %}
+
 **Multinomial Theorem**
 This generalizes the Binomial Theorem to more than two variables. It is as follows:
 $(x_1 + x_2 + ... + x_r)^n = \sum {n\choose{n_1, n_2, ..., n_r}} x_1^{n_1} x_2^{n_2} ... x_r^{n_r}$
@@ -44,3 +43,4 @@ and the summation is over all possible sets of integers.
 
 - For positive integer solutions, there are ${{n-1}\choose{r-1}}$ distinct positive integer-valued vectors $x_1, x_2, ..., x_r$ satisfying: $x_1 + x_2 + ... + x_r = n$ as $x_i > 0, i = 1, ..., r$
 - For non-negative integer solutions, there are ${{n+r-1}\choose{r-1}}$ distinct positive integer-valued vectors $x_1, x_2, ..., x_r$ satisfying: $x_1 + x_2 + ... + x_r = n$ as $x_i > 0, i = 1, ..., r$
+  {% endraw %}
