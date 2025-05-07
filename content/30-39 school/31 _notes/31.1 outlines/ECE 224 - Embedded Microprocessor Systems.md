@@ -1,2 +1,0 @@
-> [!note] **Course Description**
-> Microprocessor system architecture, bus systems, memory systems, peripherals, parallel interfaces, serial interfaces, analog interfaces, data transfer, synchronization, error detection/correction, testing and debugging.

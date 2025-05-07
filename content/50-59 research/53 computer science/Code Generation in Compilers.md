@@ -1,4 +1,0 @@
-- Defined as a translation of the program into another language
-	- typically produces assembly code 
-- special-purpose instruction set
-- hardware retargetability (such as register allocation)

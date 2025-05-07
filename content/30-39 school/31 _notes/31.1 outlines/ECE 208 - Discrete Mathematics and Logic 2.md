@@ -1,2 +1,0 @@
-> [!note] **Course Description**
-> Formal logics, methods, and associated tools, and their uses in specifying, synthesizing, and verifying computing systems. Predicate logic. Temporal logic. Relational logic. Set theory. [[proofSystems|Proof theory]]. Model theory. Graph theory. Formal models of computation. Applications in computer and software engineering.

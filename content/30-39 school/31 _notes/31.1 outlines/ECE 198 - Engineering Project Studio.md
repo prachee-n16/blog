@@ -1,2 +1,0 @@
-> [!note] **Course Description**
-> A design project integrating content from physics, math, and programming courses. Topics include engineering design process, problem definition, risk analysis, design specification, system modelling and analysis, engineering data analysis, project management, and prototyping. Students work in teams to build and test a prototype. Safety orientation training including WHMIS assessment, is included in this course. 

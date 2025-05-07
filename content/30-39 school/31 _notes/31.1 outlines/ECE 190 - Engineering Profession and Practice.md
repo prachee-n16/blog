@@ -1,2 +1,0 @@
-> [!note] **Course Description**
-> Introduction to electrical and computer engineering with an emphasis on the profession of engineering, and engineering design. Topics include engineering design, safety, risk analysis, engineering data analysis, project management, sustainability, business, entrepreneurship, and intellectual property. Additional topics include co-op fundamentals for engineering students, professional development, and diversity training with a goal of understanding the roles and responsibilities of the professional engineer in society. [Offered: F]

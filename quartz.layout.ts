@@ -4,14 +4,20 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
-  afterBody: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
-  }),
+  header: [Component.Breadcrumbs({
+    spacerSymbol: "❯",
+    rootName: "home",
+  })],
+  afterBody: [Component.Comments({
+    provider: 'giscus',
+    options: {
+      repo: 'prachee-n16/blog',
+      repoId: "R_kgDOLoDB7g",
+      category: 'Announcements',
+      categoryId: "DIC_kwDOLoDB7s4Cp4G7"
+    }
+  })],
+  footer: Component.Footer(),
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -25,9 +31,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
-    Component.RecentNotes(),
     Component.DesktopOnly(),
+    Component.Explorer()
   ],
   right: [
     Component.Graph(),

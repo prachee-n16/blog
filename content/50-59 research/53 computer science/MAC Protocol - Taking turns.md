@@ -1,1 +1,0 @@
-Class of MAC protocol where the idea is to let the nodes take turns to transmit.
