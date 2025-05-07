@@ -12,12 +12,12 @@ Inspired by the [[Zettelkasten]] and Digital Garden approaches — and knowledge
 # 🛠️ What I'm working on
 
 - 🎓 Currently @ Waterloo (4A Term)
-	- **[[ECE 457C Reinforcement Learning]]**, diving into decision-making under uncertainty
-	- **[[ECE 454 Distributed Computing]]**, building scalable, fault-tolerant infrastructure
-	- **[[ECE 486 Robot Dynamics and Control]]**, working with mobile robots and 
-	- **[[ECE 493 Machine Learning Techniques for Chip Design]]**, applying AI to Electronic Design Automation (EDA)
-	- **[[BET 320 Entrepreneurial Strategy]]**, exploring how startups grow from idea to execution
-	- **[[ECE 498A Engineering Design Project]]**, building cool things
+	- **[[Reinforcement Learning]]**, diving into decision-making under uncertainty
+	- **[[Distributed Computing]]**, building scalable, fault-tolerant infrastructure
+	- **[[Robot Dynamics and Control]]**, working with mobile robots and 
+	- **[[Machine Learning Techniques for Chip Design]]**, applying AI to Electronic Design Automation (EDA)
+	- **[[Entrepreneurial Strategy]]**, exploring how startups grow from idea to execution
+	- **[[Engineering Design Project]]**, building cool things
 - ⚛️ **Waterloo Quantum Club**: Co-founding the *university’s first student-led quantum club*! A space to explore quantum computing, engineering, and theory through hands-on tools like Qiskit, Pennylane, and Cirq, alongside guest talks and community learning.
 - ✍️ Actively **[[Personal Blog|maintaining this blog]]** as a digital garden, documenting what I learn and create in real time.
 - 🌤 Taking a beginner **Muay Thai** and **Salsa** class because learning doesn’t stop at code.
