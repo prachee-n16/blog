@@ -1,3 +1,0 @@
-> [!description]
-> Once your "big idea" has been formulated, what is the best way to realize its potential? With whom should you partner? How do you protect your intellectual property? What is the optimal business model? The objective of this course is to provide an understanding of the commercialization process, with a specific focus on assessment of opportunities and development of an entrepreneurial business plan. Course content includes the importance of strategic partnerships, understanding the bases of competition, conducting industry and market level analyses, evaluating innovative ideas for commercial potential, business planning in a corporate context, intellectual property strategy, and strategic tools needed for launching new ideas.
-

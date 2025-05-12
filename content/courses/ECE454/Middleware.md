@@ -1,1 +1,0 @@
-*layer of software that separates applications from underlying services*

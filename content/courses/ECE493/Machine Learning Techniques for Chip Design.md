@@ -1,3 +1,0 @@
->[!description]
->Special courses on advanced topics will be offered from time to time, when resources are available. For current offerings, inquire at the ECE Undergraduate Office or check the ECE website.
-
