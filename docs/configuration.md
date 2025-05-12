@@ -40,11 +40,12 @@ This part of the configuration concerns anything that can affect the whole site.
   - Note that Quartz 4 will avoid using this as much as possible and use relative URLs whenever it can to make sure your site works no matter _where_ you end up actually deploying it.
 - `ignorePatterns`: a list of [glob](<https://en.wikipedia.org/wiki/Glob_(programming)>) patterns that Quartz should ignore and not search through when looking for files inside the `content` folder. See [[private pages]] for more details.
 - `theme`: configure how the site looks.
-  - `cdnCaching`: If `true` (default), use Google CDN to cache the fonts. This will generally will be faster. Disable (`false`) this if you want Quartz to download the fonts to be self-contained.
+  - `cdnCaching`: if `true` (default), use Google CDN to cache the fonts. This will generally be faster. Disable (`false`) this if you want Quartz to download the fonts to be self-contained.
   - `typography`: what fonts to use. Any font available on [Google Fonts](https://fonts.google.com/) works here.
-    - `header`: Font to use for headers
-    - `code`: Font for inline and block quotes.
-    - `body`: Font for everything
+    - `title`: font for the title of the site (optional, same as `header` by default)
+    - `header`: font to use for headers
+    - `code`: font for inline and block quotes
+    - `body`: font for everything
   - `colors`: controls the theming of the site.
     - `light`: page background
     - `lightgray`: borders
@@ -107,3 +108,25 @@ Some plugins are included by default in the [`quartz.config.ts`](https://github.
 You can see a list of all plugins and their configuration options [[tags/plugin|here]].
 
 If you'd like to make your own plugins, see the [[making plugins|making custom plugins]] guide.
+
+## Fonts
+
+Fonts can be specified as a `string` or a `FontSpecification`:
+
+```ts
+// string
+typography: {
+  header: "Schibsted Grotesk",
+  ...
+}
+
+// FontSpecification
+typography: {
+  header: {
+    name: "Schibsted Grotesk",
+    weights: [400, 700],
+    includeItalic: true,
+  },
+  ...
+}
+```
