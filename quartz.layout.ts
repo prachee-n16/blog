@@ -31,16 +31,18 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(
-      Component.Explorer()
-    ),
+    // Component.DesktopOnly(
+    //   Component.Explorer()
+    // ),
     // Component.Explorer()
-    Component.RecentNotes()
+    Component.DesktopOnly(
+      Component.RecentNotes()
+    )
   ],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.Backlinks()),
   ],
 }
 
