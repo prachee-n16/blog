@@ -5,7 +5,7 @@ title: about me.
 
 > [!info] Pronounced as: _prah-chi_, Hindi: प्राची
 
-Welcome to my blog! I'm a fourth-year Computer Engineering student at the <a href="https://uwaterloo.ca/">University of Waterloo</a>, currently pursuing the Artificial Intelligence Option. This blog is a place to brain-dump things which I learn on a daily basis, and talk about my current/past projects and work experience. This notebook will keep on changing and improving over time, so don't expect it to be perfect yet. Some pages might still be a work in progress.
+Welcome to my blog! I'm a fourth-year Computer Engineering student at the <a href="https://uwaterloo.ca/">University of Waterloo</a>, currently pursuing the [[Artificial Intelligence Option]] This blog is a place to brain-dump things which I learn on a daily basis, and talk about my current/past projects and work experience. This notebook will keep on changing and improving over time, so don't expect it to be perfect yet. Some pages might still be a work in progress.
 
 Inspired by the [[Zettelkasten]] and Digital Garden approaches — and knowledge gardens by folks like [Maggie Appleton](https://maggieappleton.com/) and [Tom Critchlow](https://tomcritchlow.com/wiki/) — I'm here to explore, connect ideas, and cultivate deeper understanding through writing and curiosity.
 

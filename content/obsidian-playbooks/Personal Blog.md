@@ -1,6 +1,6 @@
 My process for adding content is based on the CODE system. This involves 4 steps: **C**apture, **O**rganize, **D**istill and **E**xpress. This note details on the "Organize" step i.e. how I have organized my PKM, and some basic principles I follow.
 ### Note Tags
-i.e. "status" tags I can apply to notes to provide some meta-information on them. I've documented most (if not all) tags I plan on using:
+i.e. "status" tags I sometimes apply to notes to provide some meta-information on them. I've documented most (if not all) tags I plan on using:
 - `Desk_Urgent`: Functionally, "putting it on my desk" - These are notes that require urgent action.
 - `Pin/*`: Bringing the concept of Pinterest boards into the Vault. Using these tags on notes to group together documents of the same "vibe"
     - `Pin_Idea`
@@ -13,7 +13,7 @@ i.e. "status" tags I can apply to notes to provide some meta-information on them
 
 ### Failed Experiments
 Here's a list of things I've tried but didn't really work out and why:
-- [[Zettelkasten]], the **correct** way: On paper, this is what I aspire my note-taking system to be like. However, it's a lot of **time** and **effort**. The key idea is writing notes from sources in my own words, and create "atomic" notes i.e. notes on a single idea. Then, interconnect atomic notes to link these thoughts.
+- [[Zettelkasten]], but the **correct** way: On paper, this is what I aspire my note-taking system to be like. However, it's a lot of **time** and **effort**. The key idea is writing notes from sources in my own words, and create "atomic" notes i.e. notes on a single idea. Then, interconnect atomic notes to link these thoughts.
     - As a student, spreading a topic over multiple "atomic" notes makes it difficult to review later for exams.
     - Also, sometimes, I do want to jot down _information_ or _data_ regarding a topic because it's useful to have.
     - So, while some notes are great at keeping it to the point, it's not perfectly followed everywhere
