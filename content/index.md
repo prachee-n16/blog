@@ -11,18 +11,22 @@ Inspired by the [[Zettelkasten]] and Digital Garden approaches — and knowledge
 
 # 🛠️ What I'm working on
 
-- 💻 **Software Engineering Intern @Magi Inc.**, where I’m helping build and launch new AI-powered product verticals focused on social media and recruiting.
-- 🗽 Exploring life in **New York City** - traveling, wandering through new neighborhoods, and hunting down great food everywhere I go.
-- ✍️ Actively **[[Personal Blog|maintaining this blog]]** as a digital garden, documenting what I learn and create in real time.
+> [!tip] Hiring for new grads?
+> You can find more about my work here → **[[2026 SWE Portfolio]]**
+
+- 🎓 **[[4B CE|Final term]] at the University of Waterloo**, wrapping up my degree
+- 🔍 **Actively seeking New Grad Software Engineering roles**, with interests across product engineering, systems, and applied AI.
+- ✍️ Actively **[[Personal Blog|maintaining this blog]]** as a digital garden (in [[Obsidian]]), documenting what I learn and create in real time.
 
 # 🔁 Things I've done
 
 - Tackling diverse projects across industries with curiosity and impact
+  - Built and launched AI-powered product verticals focused on social media and recruiting as a Software Engineering Intern **@Magi Inc**.
   - Worked on **People Search @X**, an app that supercharges recruiting on their social media platform
   - Joined the **Architecture Team @Empire Life**, shipping POCs across gRPC, Redpanda, and GCP to modernize legacy systems.
   - **HMI Developer for @Ford**, on flagship SYNC platform, shaping next-gen in-car experiences for the Mach-E and F-150 Lightning
   - Crafted accessible, cross-browser UI for enterprise banking app **@NCR** using React
-- Hackathon aficionado (9 _victories_, 12 _events_) and organizer for [Technova 2024](https://itstechnova.org/) with 300+ participants
+- Hackathon aficionado (10 _victories_, 12 _events_) and organizer for [Technova 2024](https://itstechnova.org/) with 300+ participants
 - 🚀 Former Senior Full-Stack Developer @ UW Entrepreneurship Society, building and maintaining tools that empowered Waterloo’s startup community.
 - ⚛️ Co-founded Waterloo Quantum Club, the university’s first student-led quantum computing club, fostering exploration and education in frontier tech.
 

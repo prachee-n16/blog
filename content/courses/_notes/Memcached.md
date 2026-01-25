@@ -1,0 +1,27 @@
+In-memory key-value store for small chunks of arbitrary data (e.g., strings, objects) from database/API calls or page rendering.
+
+- **Motivation**:
+    - Databases like MySQL can be limited in handling large-scale queries (~1M per second on commodity hardware).
+    - Caching can accelerate read-dominated workloads by reducing the database load.
+- **Features**:
+    - High hit ratio reduces database server load by 10x.
+    - Cache management:
+        - Expiration time for data items.
+        - Data items can be updated, deleted, and evicted based on LRU (Least Recently Used) policy.
+        - Scales out by hash-partitioning key-value structure across servers.
+- **Look-aside vs. Look-through Caching**:
+    - **Look-aside**: Application explicitly fetches data if a cache miss occurs (used by Memcached).
+    - **Look-through**: Cache fetches data automatically on cache miss (used by CPU L1/L2 caches).
+- **Basic API**:
+    - **Storage commands**: `set`, `add`, `replace`, `append/prepend`, `cas`.
+    - **Retrieval commands**: `get`, `gets`.
+    - **Deletion**: `delete`.
+- **Additional Commands**:
+    - **Counters**: `incr`, `decr`.
+    - **Statistics**: `stats`.
+    - **Flush**: `flush_all`.
+- **Caveats**:
+    - Consistent key naming is required.
+    - Non-transactional nature can lead to outdated data.
+    - Slow queries may cause the "thundering herd" problem.
+    - Counters used for traffic statistics may get evicted, complicating comparisons.

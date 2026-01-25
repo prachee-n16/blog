@@ -1,0 +1,1 @@
+Given relations $r(R)$ and $s(S)$, such that $S \subseteq R$, the division operation $r \div s$ is the largest relation $t(R - S)$ such that: $t \times s \subseteq r$ 
