@@ -208,10 +208,10 @@ plugins:
     options:
       provider: giscus
       options:
-        repo: TODO:username/repo-name
-        repoId: TODO:your-repo-id
+        repo: prachee-n16/blog
+        repoId: R_kgDOVIfmrA
         category: Announcements
-        categoryId: TODO:your-category-id
+        categoryId: DIC_kwDOVIfmrM4DIXJo
         mapping: url
         strict: true
         reactionsEnabled: true
